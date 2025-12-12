@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/python /app/scripts/generate_code.py >> /cron/last_code.txt 2>&1
